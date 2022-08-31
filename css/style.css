@@ -1,5 +1,8 @@
+body{
+  background-color:rgb(196, 189, 189) ;
+}
 #head{
-  background-color: rgb(221, 213, 213)
+  background-color: rgb(226, 221, 221)
 }
 #head2{
   margin-left: 690px;
@@ -18,12 +21,64 @@
 #work{
   margin-left: 400px;
   margin-top: 70px;
+  color: white;
 }
 #work1{
   margin-left:380px ;
   margin-top: 20px;
   font-weight: bold;
+  color: white;
 }
 #work2{
-  background-image:url() ;
+  height:490px;
+  width: 100%;
+  background-image:url(../img/1140\ hero\ image_0.jpg) ;
+  background-repeat:no-repeat ;
+  background-size:contain ;
+ 
+}
+#phone{
+  color: purple;
+  background-color: rgb(221, 213, 213);
+  margin-left: 0px;
+}
+#phone1{
+  color: purple;
+  background-color: rgb(221, 213, 213);
+  margin-left: 350px;
+}
+.dropdown-menu{
+  background-color: purple;
+  color: white;
+}
+.col-3{
+  width: 150px;
+  height: 150px;
+ box-sizing: border-box;
+  background-color: white;
+  display: inline;
+  margin-left: 150px;
+  margin: 7px;
+  
+}
+#col-12{
+  margin-left: 300px;
+  margin-top: 100px;
+}
+#food{
+  width: 200px;
+  height: 100px;
+  color: purple;
+  margin-top: 100px;
+  margin-left: 330px;
+}
+#pet1{
+  margin-left: 0px;
+  margin-top: 100px;
+
+}
+#pet2{
+  color: rgb(105, 7, 105);
+  margin-left: 500px;
+  margin-top:50px ;
 }
