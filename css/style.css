@@ -82,3 +82,16 @@ body{
   margin-left: 500px;
   margin-top:50px ;
 }
+.card-img-top{
+  width: 200px;
+  height: 200px;
+}
+.card-text{
+  font-family: cursive;
+}
+.card{
+  background-color:rgb(196, 189, 189) ;
+  margin-top: 70px;
+  margin: 20px;
+  border-style: none;
+}
